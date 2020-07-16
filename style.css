@@ -1,0 +1,16 @@
+footer {
+  font-size: 20px;
+  text-align: center;
+  background-color: white;
+  border-radius: 5px;
+}
+
+footer a {
+  text-decoration: none;
+  font-family: Roboto;
+}
+#theme_switch {
+  border-radius: 2px;
+  background-color: grey;
+  border: 2px solid white;
+}
